@@ -55,3 +55,8 @@ RX = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iZotope\RX 9 Audio Ed
 R9 = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iZotope\RX 9 Audio Editor\iZotope RX 9 Audio Editor.lnk"
 Audio = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iZotope\RX 9 Audio Editor\iZotope RX 9 Audio Editor.lnk"
 audio = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iZotope\RX 9 Audio Editor\iZotope RX 9 Audio Editor.lnk"
+fb = fastboot reboot
+recovery = fastboot reboot recovery
+rec = "C:\Program Files (x86)\FoneLab\FoneLab Screen Recorder\FoneLab Screen Recorder.exe" -start:rec
+browser_Profile = "C:\Program Files\Google\Chrome\Application\chrome.exe"  --load-extension="C:\Users\jerem\AppData\Local\Google\Chrome\User Data\Default\Extension\dcmpmpcrpepfmjeflqrejjiondciboeb\1.4.5._0"
+UE5-to-apk = C:\Program Files/Light_fighter/lightfighter.uproject --Compile:Android(ETC1,ATC)
