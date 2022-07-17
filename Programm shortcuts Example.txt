@@ -1,0 +1,14 @@
+Epic = C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+epic = "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe"
+store = "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe"
+Track = "C:\Program Files (x86)\TrackOFF\TrackOFFApplication.exe"
+antitrack = "C:\Program Files (x86)\TrackOFF\TrackOFFApplication.exe"
+at = "C:\Program Files (x86)\TrackOFF\TrackOFFApplication.exe"
+tv = "C:\Program Files\TeamViewer\TeamViewer.exe"
+team = "C:\Program Files\TeamViewer\TeamViewer.exe"
+browser = "C:\Program Files\Google\Chrome\Application\chrome.exe"
+search = C:\Program Files\Google\Chrome\Application\chrome.exe
+s = C:\Users\jerem\OneDrive\Desktop\chrome.Ink
+edge = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" 
+yugioh = steam://rungameid/1449850
+game = steam://rungameid/1449850

@@ -1,0 +1,1 @@
+start CMD and drag´n Drop Programm shortcut Creator.exe into it.
