@@ -4,7 +4,7 @@ Remove from the File path ""
 
 
 Installation Guide --->  https://youtu.be/qkAWwnOKUyU
-
+Download Tutorial  --->  https://1drv.ms/v/s!Aniy63TOsk7-gaogdgEWJFarsYDW6A
 
 
 whats Inside shortcut.txt File?
