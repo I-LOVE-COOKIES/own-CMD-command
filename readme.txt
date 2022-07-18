@@ -3,9 +3,11 @@ drag´n drop a shortcut.txt File into the Programm.
 Remove from the File path ""
 
 
+Installation Guide --->  https://youtu.be/qkAWwnOKUyU
+
 Example:
 
-whats Inside a shortcut.txt File?
+whats Inside shortcut.txt File?
 
 steam = "C:\Users\jerem\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Steam.lnk"
 edge = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk"
