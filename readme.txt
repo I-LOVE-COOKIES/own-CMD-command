@@ -5,7 +5,7 @@ Remove from the File path ""
 
 Installation Guide --->  https://youtu.be/qkAWwnOKUyU
 
-Example:
+
 
 whats Inside shortcut.txt File?
 
